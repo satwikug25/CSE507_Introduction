@@ -1,6 +1,5 @@
 from matplotlib.image import imread
 import numpy as np
-import matplotlib.pyplot as plt
 from matplotlib.image import imsave
 # Read Image
 img = imread('Satwik.jpeg') # Color image
